@@ -1,2 +1,11 @@
 # learning-git
 The goal of this repository is to learn git best practicies
+
+
+## Basics comands
+
+- To clone a repo: `git clone <repo-url>`
+- To add a file: `git add <file-name>`
+- To check the status: `git status`
+- To create a commit: `git commit -m <commit description>`
+- To publish the result: `git push`
