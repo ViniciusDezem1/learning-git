@@ -14,3 +14,5 @@ The goal of this repository is to learn git best practicies
 
 - To create a branch: `git checkout -b <branch-name>`
 - To check the curent branch name: `git branch --show-current`
+- To set a remote branch target: `git push -u oringin/<branch-name>`
+- To update local with remote: `git pull`
